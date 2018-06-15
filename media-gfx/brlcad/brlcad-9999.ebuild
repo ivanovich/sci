@@ -6,7 +6,7 @@ inherit cmake-utils eutils subversion java-pkg-2 flag-o-matic
 
 DESCRIPTION="Constructive solid geometry modeling system"
 HOMEPAGE="http://brlcad.org/"
-ESVN_REPO_URI="https://brlcad.svn.sourceforge.net/svnroot/${PN}/${PN}/trunk"
+ESVN_REPO_URI="https://svn.code.sf.net/p/${PN}/code/${PN}/trunk"
 
 LICENSE="LGPL-2 BSD"
 SLOT="0"
